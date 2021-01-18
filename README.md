@@ -1,1 +1,1 @@
-# Semargl
+Mine of an universal action.
